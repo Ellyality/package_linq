@@ -1,0 +1,21 @@
+{
+	"name": "com.ellyality.utility.linq",
+	"displayName":"LINQ GameObject",
+	"version": "1.0.0",
+    "author": "Elly Utility",
+    "unity": "2019.2",
+    "keywords": ["utility", "linq"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "",
+    "documentationUrl": "https://github.com/Ellyality/package_linq/blob/main/README.md",
+    "dependencies": {
+    },
+	"samples":[
+        {
+            "displayName": "Demo Scene",
+            "description": "LINQ demo",
+            "path": "~Demo"
+        }
+    ]
+}
